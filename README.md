@@ -1,4 +1,6 @@
-Agentic AI
+Agentic AI RAG
+
+
 
 This project is a Streamlit web app that lets you upload multiple PDF files (like annual reports, statements, or research papers) and then ask natural-language questions about their content. Under the hood, it uses LangChain, Hugging Face embeddings, and a retrieval-augmented generation pipeline to pull relevant information from your PDFs and generate answers.
 
